@@ -225,7 +225,7 @@ h1 {
   z-index: 2;
 }
 
-.title {
+.title {}
   text-align: center;
   color: #cb2a78;
   font-weight: bold;
